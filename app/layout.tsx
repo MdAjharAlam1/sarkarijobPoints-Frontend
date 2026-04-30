@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Poppins } from "next/font/google";
+// @ts-ignore: side-effect import of CSS without type declarations
 import "./globals.css";
 import MainLayout from "@/components/mainLayout";
 

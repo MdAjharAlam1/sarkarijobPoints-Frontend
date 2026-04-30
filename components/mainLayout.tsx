@@ -2,7 +2,7 @@
 import ChildrenInterface from "@/interfaces/children-interface"
 import { FC, useEffect, useState } from "react"
 import {AntdRegistry} from "@ant-design/nextjs-registry"
-import "animate.css"
+// import 'animate.css';
 // import "@ant-design/v5-patch-for-react-19"
 import Header from "./header"
 import Footer from "./footer"
